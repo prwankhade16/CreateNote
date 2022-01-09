@@ -1,0 +1,58 @@
+{
+  "notes": [
+    {
+      "title": "Order a pizza!",
+      "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "java ",
+      "details": "I need to solve at least one program daily",
+      "category": "money",
+      "id": 5
+    },
+    {
+      "title": "DBMS",
+      "details": "Check InfyTQ Website",
+      "category": "reminders",
+      "id": 6
+    },
+    {
+      "title": "Material UI",
+      "details": "MUI provides a simple, customizable, and accessible library of React components. Follow your own design system, or start with Material Design",
+      "category": "work",
+      "id": 7
+    },
+    {
+      "title": "Hackerrank",
+      "details": "What is HackerRank? HackerRank is a place where programmers from all over the world come together to solve problems in a wide range of Computer Science domains such as algorithms, machine learning, or artificial intelligence, as well as to practice different programming paradigms like functional programming.",
+      "category": "money",
+      "id": 8
+    },
+    {
+      "title": "CodeChef",
+      "details": "CodeChef - A Platform for Aspiring Programmers ... Win cool Goodies, Check Here. Dedicated Monthly CodeChef Contests, Read More. Huge library of practice problems ...",
+      "category": "todos",
+      "id": 9
+    },
+    {
+      "title": "DSA",
+      "details": "Direct-attached storage (DAS) is digital storage directly attached to the computer accessing it, as opposed to storage accessed over a computer network ...",
+      "category": "todos",
+      "id": 10
+    },
+    {
+      "title": "npm i react-masonry-component",
+      "details": "The component is bundled with Masonry, so no additional dependencies needed!\n\nYou can optionally include Masonry as a script tag if there should be any reason for doing so <script src='//cdnjs.cloudflare.com/ajax/libs/masonry/3.1.5/masonry.pkgd.min.js' />\n\nTo use the component just require the module.",
+      "category": "reminders",
+      "id": 11
+    },
+    {
+      "title": "Codechef by Unacademy",
+      "details": "CodeChef is a competitive programming community of programmers from across the globe. CodeChef was started as an educational initiative in the year 2009 by Directi, an Indian software company.\n\nApart from its monthly coding contests for the community, CodeChef has many initiatives for Schools, Colleges and Women in competitive programming.[1] CodeChef is credited with hosting the India regionals of the ICPC for college students, as well as for IOI for school students in India. In 2020, CodeChef’s custodianship was changed from Directi (founded by Bhavin Turakhia) to Unacademy (Gaurav Munjal, CEO)",
+      "category": "work",
+      "id": 12
+    }
+  ]
+}
